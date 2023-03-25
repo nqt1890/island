@@ -8,7 +8,15 @@
 				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/IslandMap.umap",
 				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/pre_island.umap",
-				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/IslandMap_sharedassets/LayerSlope_LayerInfo.uasset"
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/IslandMap_sharedassets/LayerSlope_LayerInfo.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/ThirdPerson/Blueprints/WaterBodyOcean_Blueprint.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/Animation/126_11.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/MocapCMU-InPlace/126_11.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/126_11_free_swim.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/Animation/126_11_free_swim.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/Island/Content/Animation/SwimBS.uasset"
 			]
 		}
 	]
